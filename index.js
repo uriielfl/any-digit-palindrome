@@ -29,5 +29,4 @@ const getFirstPalindromicNumbers = (entryNumber, digits) => {
 	}
 };
 
-console.log(getFirstPalindromicNumbers(1233334543333, 12))
 
